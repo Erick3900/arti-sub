@@ -1,0 +1,8 @@
+[requires]
+fmt/9.1.0
+ctre/3.7.1
+boost/1.80.0
+tl-expected/20190710
+
+[generators]
+cmake_find_package_multi
