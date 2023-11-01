@@ -5,4 +5,5 @@ boost/1.80.0
 tl-expected/20190710
 
 [generators]
-cmake_find_package_multi
+CMakeDeps
+CMakeToolchain
